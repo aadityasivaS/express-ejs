@@ -31,10 +31,6 @@ npm start
 
 This will start the server at port 3000
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 
 ## Contributing
 
