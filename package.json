@@ -1,22 +1,26 @@
 {
   "name": "express-ejs",
   "version": "1.0.0",
-  "description": "Express ejs template generator",
+  "description": "a npm package which generates starter code for [Express](http://expressjs.com/) and [EJS](https://ejs.co/)",
   "main": "index.js",
+  "dependencies": {
+    "loading-cli": "^1.1.0",
+    "colors": "^1.4.0",
+    "simple-git": "^2.22.0",
+    "npm-programmatic": "^0.0.12"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "Express",
-    "ejs",
-    "template"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadityasivaS/express-ejs.git"
+  },
   "author": "Aadityasiva",
   "license": "ISC",
-  "dependencies": {
-    "colors": "^1.4.0",
-    "loading-cli": "^1.1.0",
-    "npm-programmatic": "0.0.12",
-    "simple-git": "^2.22.0"
-  }
+  "bugs": {
+    "url": "https://github.com/aadityasivaS/express-ejs/issues"
+  },
+  "homepage": "https://github.com/aadityasivaS/express-ejs#readme"
 }
