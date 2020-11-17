@@ -1,0 +1,22 @@
+{
+  "name": "express-ejs",
+  "version": "1.0.0",
+  "description": "Express ejs template generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "ejs",
+    "template"
+  ],
+  "author": "Aadityasiva",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "loading-cli": "^1.1.0",
+    "npm-programmatic": "0.0.12",
+    "simple-git": "^2.22.0"
+  }
+}
