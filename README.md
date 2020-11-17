@@ -1,6 +1,7 @@
 # Express EJS template
 
 a npm package which generates starter code for [Express](http://expressjs.com/) and [EJS](https://ejs.co/)
+docs : https://express-ejs-docs.vercel.app/
 
 ## Getting Started
 
