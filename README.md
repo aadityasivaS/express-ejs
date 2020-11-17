@@ -1,4 +1,4 @@
-# Express EJS template (Note this is just the template the npm package will be comming soon)
+# Express EJS template
 
 a npm package which generates starter code for [Express](http://expressjs.com/) and [EJS](https://ejs.co/)
 
