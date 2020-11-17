@@ -4,7 +4,7 @@ var npm = require('npm-programmatic');
 const simpleGit = require('simple-git');
 require('colors');
 const git = simpleGit();
-var Args = process.argv.slice(1);
+var Args = process.argv.slice(2);
 console.log('Making your project');
 const loading = require('loading-cli');
 const load = loading("Cloning Template!!").start()
@@ -18,8 +18,7 @@ let packageMod = `{
     },
     "license": "ISC",
     "dependencies": {
-      "ejs": "^3.1.5",
-      "express": "^4.17.1"
+      
     }
   }`;
 exec(`git clone https://github.com/aadityasivaS/express-ejs-template.git ${Args[0]}`, (err, stdout, stderr) => {
