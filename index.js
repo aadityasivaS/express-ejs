@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var { exec } = require('child_process');
 var fs = require('fs');
 var npm = require('npm-programmatic');
