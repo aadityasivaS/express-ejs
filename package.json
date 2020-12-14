@@ -1,6 +1,6 @@
 {
   "name": "express-ejs",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "a npm package which generates starter code for [Express](http://expressjs.com/) and [EJS](https://ejs.co/)",
   "main": "index.js",
   "dependencies": {
