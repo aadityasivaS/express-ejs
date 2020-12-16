@@ -3,7 +3,7 @@
 a npm package which generates starter code for [Express](http://expressjs.com/) and [EJS](https://ejs.co/)
 docs : https://express-ejs-docs.vercel.app/
 
-If you like this package please ⭐ give us a star on github [https://github.com/aadityasivaS/express-ejs](https://github.com/aadityasivaS/express-ejs)
+If you like this package please give us a ⭐ on github [https://github.com/aadityasivaS/express-ejs](https://github.com/aadityasivaS/express-ejs)
 
 ## Getting Started
 
