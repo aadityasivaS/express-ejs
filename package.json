@@ -18,7 +18,7 @@
     "url": "git+https://github.com/aadityasivaS/express-ejs.git"
   },
   "author": "Aadityasiva",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/aadityasivaS/express-ejs/issues"
   },
